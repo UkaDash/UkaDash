@@ -47,7 +47,7 @@
   - [PyCrypto](https://drive.google.com/file/d/1_6vCCfKU_pdTzMwVsvS0iSv5Vn5rCPMR/view?usp=share_link)
   - [PyCrypto](https://drive.google.com/file/d/1gvQi_8rWM8eHyCQEuN67qv_PREG-tGee/view?usp=share_link)
   - [String Encoding - UTF -1 byte, 2 byte, 3 byte, 4 byte ASCII](https://drive.google.com/file/d/1jF2nzYSmKbrk7Vk68RUkM5yB3m93bay6/view?usp=share_link)
- - <b>Network</b>
+- <b>Network</b>
   - [Establishing VPN](https://drive.google.com/file/d/1wPiffCXtu3w0Gm8V7PGK569TlFGYIrLw/view?usp=share_link)
   - [Establishing ACL](https://drive.google.com/file/d/12eXLTTldb5vAlcGlTVW1_y5FGIVPnSeZ/view?usp=share_link)
   - [Configure Syslog and NTP](https://drive.google.com/file/d/1O5au5PUbRaiRFF2DhaaUM4-8kiF9wifT/view?usp=share_link)
