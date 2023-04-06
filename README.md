@@ -8,6 +8,7 @@
   - [OpenVAS](https://youtu.be/9fudyQpjcuU)
   - [Vulnerability scan with OpenVAS](https://youtu.be/BXtQ1QchSQM)
   - [TCP Port Scan Using NMap](https://youtu.be/GZHi_lzQ6o4)
+  - [Snort Tutorial](https://youtu.be/mir8pcOSyMo)
 - <b> Project in Python </b>
   - [Analysis of Machine Learning Techniques for Credit Card Fraud Detection](https://github.com/UkaDash/analysis-of-ML-techniques-for-credit-card-fraud-detection/blob/main/ZZZfinal%20-%20credit%20card%20fraud.ipynb)
   - [Paper](https://drive.google.com/file/d/1kqqeSbA1krXNFOkrBdSHvRHUPcN7hgII/view?usp=share_link)
