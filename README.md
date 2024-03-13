@@ -12,7 +12,8 @@
 - <b> Project in Python </b>
   - [Analysis of Machine Learning Techniques for Credit Card Fraud Detection](https://github.com/UkaDash/analysis-of-ML-techniques-for-credit-card-fraud-detection/blob/main/ZZZfinal%20-%20credit%20card%20fraud.ipynb)
   - [Paper](https://drive.google.com/file/d/1kqqeSbA1krXNFOkrBdSHvRHUPcN7hgII/view?usp=share_link)
-  - [Intrusion Detection System](https://github.com/UkaDash/Intrusion-Detection-System/blob/main/Midterm_Urangoo_CYB595%20(1).ipynb) 
+  - [Intrusion Detection System](https://github.com/UkaDash/Intrusion-Detection-System/blob/main/Midterm_Urangoo_CYB595%20(1).ipynb)
+  - [Using Functions to Implement a Caesar Cipher](https://github.com/UkaDash/Using-Functions-to-Implement-a-Caesar-Cipher/blob/main/Using%20Functions%20to%20Implement%20a%20Caesar%20Cipher.ipynb) 
 - <b>Wireshark</b>
   - [Capturing & Analyzing Packet in Wireshark](https://drive.google.com/file/d/199ckbK74FFTtAtG0GfpSWyE3skbHw1fh/view?usp=share_link)
   - [Header and Packet Sniffing Using Wireshark and tcpdump](https://drive.google.com/file/d/1PMs5EGInqmnGNkRhcpuBZqLqCLkA0mRT/view?usp=share_link)
