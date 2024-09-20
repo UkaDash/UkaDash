@@ -62,6 +62,8 @@
 
 [instagram]: https://www.instagram.com/uka_dash/
 [linkedin]: https://www.linkedin.com/in/uka-dashdavaa/
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="uka-dashdavaa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/uka-dashdavaa?trk=profile-badge">Uka Dashdavaa</a></div>
+              
 
 <!--
 **UkaDash/UkaDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
