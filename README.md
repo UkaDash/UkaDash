@@ -43,7 +43,7 @@
   - [Encrypt using CyperTool](https://drive.google.com/file/d/1b_FhOZDxcqkt4Bk3TYFQjwoom77i1aA-/view?usp=share_link)
   - [AES](https://drive.google.com/file/d/1Jgof1ifPcNNNc7Xo0doMud1ZX58nHDRQ/view?usp=share_link)
   - [Cryptography GPG](https://drive.google.com/file/d/1rBA2dUAsa0YykjoRhs1tM-ZVxwjH2d38/view?usp=share_link)
-  - [Decrypting TLS, HTTP/2 and QUIC with Wireshark](https://drive.google.com/file/d/1dwo9ga5E6tlbz0kH4Lkx2d3QxwIAdTBv/view?usp=share_link](https://drive.google.com/file/d/1p2rdsVlc3PxJdM2W8WX8XB26yYL6HWh7/view?usp=share_link)
+  - [Decrypting TLS, HTTP/2 and QUIC with Wireshark]()
   - [Binary XoR](https://drive.google.com/file/d/1GoycniAGxD9ppukRirIT1d9qhbZt5Yq7/view?usp=share_link)
   - [Hashing a Text File with OpenSSL](https://drive.google.com/file/d/1UpxtZoZbLc3Kt1d8yH2EzoYDZYPxYxfR/view?usp=share_link)
   - [Exploring Encryption Methods](https://drive.google.com/file/d/18rbATObnBVMP8OPavnwL0t27yJGwvvYu/view?usp=share_link)
