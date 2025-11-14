@@ -24,7 +24,7 @@
   - [SYN Attack with GeoIP filtering with Wireshark](https://drive.google.com/file/d/1ThIGv09qaeyV6KR4JHLLJfqy83RF6IM2/view?usp=share_link)
   - [Examining Telnet and SSH in Wireshark](https://drive.google.com/file/d/1hSs0R1wtheAeDurXt_62GtwMh5cPJCVE/view?usp=share_link)
   - [Encrypting and Decrypting Data using a Hacker Tool](https://drive.google.com/file/d/1ks0nWcZS5J6gr0gUZnU478hZqxsVpNFq/view?usp=share_link)
-  - [HTTPS Decryption with Wireshark / Website TLS Decryption](https://drive.google.com/file/d/1XSVAYm3HGj_PjJzyhkw7rOOd2Zhe-LtQ/view?usp=share_link)
+  - [HTTPS Decryption with Wireshark / Website TLS Decryption](https://drive.google.com/file/d/1p2rdsVlc3PxJdM2W8WX8XB26yYL6HWh7/view?usp=share_link)
   - [Scrapy Packet Analysis](https://drive.google.com/file/d/1ZAawBEa5nTDuHPZu8RCepqmqSQnafDwi/view?usp=share_link)
   - [Scrapy Packet Capture](https://drive.google.com/file/d/13nq53tbcGwr1vBWpGU-2exIfOD8cv3ek/view?usp=share_link)
   - [Scrapy Network Packet Creation. ICMP](https://drive.google.com/file/d/18nx_0YAQtVghXkYqlgxVLHbQPnIQjKTS/view?usp=share_link)
