@@ -19,7 +19,7 @@
 - <b>Wireshark</b>
   - [Capturing & Analyzing Packet in Wireshark](https://drive.google.com/file/d/1uFKZYKycQ6hPvNQnn0NuEAUbsrHzRFEd/view?usp=share_link)
   - [Header and Packet Sniffing Using Wireshark and tcpdump](https://drive.google.com/file/d/1I7-dA1474OU7wuBMpEuzmfaRVmucxD5K/view?usp=share_link)
-  - [Lab-Network Forensics](https://drive.google.com/file/d/1-Hoe1I746aH1ah7GbFH3tMMUuiznmYRH/view?usp=share_link)
+  - [Lab-Network Forensics](https://drive.google.com/file/d/1VNqnUF4oAg9e3rf-eO8Tr0-rTUkpfR8i/view?usp=share_link)
   - [Packet Capture with IDS](https://drive.google.com/file/d/1TaolqiCWY4PxqdE657YYP5Tg34v4YYyj/view?usp=share_link)
   - [SYN Attack with GeoIP filtering with Wireshark](https://drive.google.com/file/d/1ThIGv09qaeyV6KR4JHLLJfqy83RF6IM2/view?usp=share_link)
   - [Examining Telnet and SSH in Wireshark](https://drive.google.com/file/d/1hSs0R1wtheAeDurXt_62GtwMh5cPJCVE/view?usp=share_link)
@@ -40,11 +40,11 @@
   - [Hello World Service](https://drive.google.com/file/d/1sD75zA0KZ_j5z9QXWgQGl-DfVRSCZYrx/view?usp=share_link)
   - [Counting Bytes in Files](https://drive.google.com/file/d/1lVGrpDFW32oZjgRZmCqRna4GRIs-HKuR/view?usp=share_link)
 - <b>Cryptography</b>
-  - [Encrypt using CyperTool](https://drive.google.com/file/d/1o2BnaE3GIOIv1kNdynlevy2-MMS6zFIQ/view?usp=share_link)
+  - [Encrypt using CyperTool](https://drive.google.com/file/d/1b_FhOZDxcqkt4Bk3TYFQjwoom77i1aA-/view?usp=share_link)
   - [AES](https://drive.google.com/file/d/1Jgof1ifPcNNNc7Xo0doMud1ZX58nHDRQ/view?usp=share_link)
   - [Cryptography GPG](https://drive.google.com/file/d/1rBA2dUAsa0YykjoRhs1tM-ZVxwjH2d38/view?usp=share_link)
-  - [Decrypting TLS, HTTP/2 and QUIC with Wireshark](https://drive.google.com/file/d/1dwo9ga5E6tlbz0kH4Lkx2d3QxwIAdTBv/view?usp=share_link)
-  - [Binary XoR](https://drive.google.com/file/d/1vpWXWvtUs743vngrinJSdMK1qTuSv33i/view?usp=share_link)
+  - [Decrypting TLS, HTTP/2 and QUIC with Wireshark](https://drive.google.com/file/d/1dwo9ga5E6tlbz0kH4Lkx2d3QxwIAdTBv/view?usp=share_link](https://drive.google.com/file/d/1p2rdsVlc3PxJdM2W8WX8XB26yYL6HWh7/view?usp=share_link)
+  - [Binary XoR](https://drive.google.com/file/d/1GoycniAGxD9ppukRirIT1d9qhbZt5Yq7/view?usp=share_link)
   - [Hashing a Text File with OpenSSL](https://drive.google.com/file/d/1UpxtZoZbLc3Kt1d8yH2EzoYDZYPxYxfR/view?usp=share_link)
   - [Exploring Encryption Methods](https://drive.google.com/file/d/18rbATObnBVMP8OPavnwL0t27yJGwvvYu/view?usp=share_link)
   - [Encrypting and Decrypting Data Using OpenSSL](https://drive.google.com/file/d/1VjP_L6FBEv2pGKM57YumrACsMC-ljeh5/view?usp=share_link)
