@@ -17,11 +17,11 @@
 - <b>AI/Machine Learning/Data Analysis Tutorial<b>
   - [AI and For Loops: Tokenizing Sentences and Batching Data](https://drive.google.com/file/d/110xyAfDyJE0YhiBJrI5ZLXdQU00-WTht/view?usp=share_link)
 - <b>Wireshark</b>
-  - [Capturing & Analyzing Packet in Wireshark](https://drive.google.com/file/d/199ckbK74FFTtAtG0GfpSWyE3skbHw1fh/view?usp=share_link)
-  - [Header and Packet Sniffing Using Wireshark and tcpdump](https://drive.google.com/file/d/1PMs5EGInqmnGNkRhcpuBZqLqCLkA0mRT/view?usp=share_link)
+  - [Capturing & Analyzing Packet in Wireshark](https://drive.google.com/file/d/1uFKZYKycQ6hPvNQnn0NuEAUbsrHzRFEd/view?usp=share_link)
+  - [Header and Packet Sniffing Using Wireshark and tcpdump](https://drive.google.com/file/d/1I7-dA1474OU7wuBMpEuzmfaRVmucxD5K/view?usp=share_link)
   - [Lab-Network Forensics](https://drive.google.com/file/d/1-Hoe1I746aH1ah7GbFH3tMMUuiznmYRH/view?usp=share_link)
-  - [Packet Capture with IDS](https://drive.google.com/file/d/1lPQCBQELZGo17rym3qMaweEorFcWTXP2/view?usp=share_link)
-  - [SYN Attack with GeoIP filtering with Wireshark](https://drive.google.com/file/d/1Zr39_DYwr9ZgecB8ZMxrAGUhNDwTgd4o/view?usp=share_link)
+  - [Packet Capture with IDS](https://drive.google.com/file/d/1TaolqiCWY4PxqdE657YYP5Tg34v4YYyj/view?usp=share_link)
+  - [SYN Attack with GeoIP filtering with Wireshark](https://drive.google.com/file/d/1ThIGv09qaeyV6KR4JHLLJfqy83RF6IM2/view?usp=share_link)
   - [Examining Telnet and SSH in Wireshark](https://drive.google.com/file/d/1hSs0R1wtheAeDurXt_62GtwMh5cPJCVE/view?usp=share_link)
   - [Encrypting and Decrypting Data using a Hacker Tool](https://drive.google.com/file/d/1ks0nWcZS5J6gr0gUZnU478hZqxsVpNFq/view?usp=share_link)
   - [HTTPS Decryption with Wireshark / Website TLS Decryption](https://drive.google.com/file/d/1XSVAYm3HGj_PjJzyhkw7rOOd2Zhe-LtQ/view?usp=share_link)
@@ -47,14 +47,14 @@
   - [Binary XoR](https://drive.google.com/file/d/1vpWXWvtUs743vngrinJSdMK1qTuSv33i/view?usp=share_link)
   - [Hashing a Text File with OpenSSL](https://drive.google.com/file/d/1UpxtZoZbLc3Kt1d8yH2EzoYDZYPxYxfR/view?usp=share_link)
   - [Exploring Encryption Methods](https://drive.google.com/file/d/18rbATObnBVMP8OPavnwL0t27yJGwvvYu/view?usp=share_link)
-  - [Encrypting and Decrypting Data Using OpenSSL](https://drive.google.com/file/d/1_2ioMkUoOmnCsOaQ1xZOMRAafrmCaz54/view?usp=share_link)
+  - [Encrypting and Decrypting Data Using OpenSSL](https://drive.google.com/file/d/1VjP_L6FBEv2pGKM57YumrACsMC-ljeh5/view?usp=share_link)
   - [PyCrypto](https://drive.google.com/file/d/1_6vCCfKU_pdTzMwVsvS0iSv5Vn5rCPMR/view?usp=share_link)
   - [PyCrypto](https://drive.google.com/file/d/1gvQi_8rWM8eHyCQEuN67qv_PREG-tGee/view?usp=share_link)
   - [String Encoding - UTF -1 byte, 2 byte, 3 byte, 4 byte ASCII](https://drive.google.com/file/d/1jF2nzYSmKbrk7Vk68RUkM5yB3m93bay6/view?usp=share_link)
 - <b>Network</b>
   - [Establishing VPN](https://drive.google.com/file/d/1XIAtQkrPeSCjNmbKoTPWkPnRnkiM_vSG/view?usp=sharing)
   - [Establishing ACL](https://drive.google.com/file/d/17_k1qeiinoNad5RjMkQZRV5NXNHVd5tG/view?usp=share_link)
-  - [Configure Syslog and NTP](https://drive.google.com/file/d/1O5au5PUbRaiRFF2DhaaUM4-8kiF9wifT/view?usp=share_link)
+  - [Configure Syslog and NTP](https://drive.google.com/file/d/1FrFQz8K6s4YlU63RZN-TH2NLiJ0GZmQy/view?usp=share_link)
   - [Firewalls and Security Zones](https://drive.google.com/file/d/1ToZ2Wz8QBsCsfYEdr7pBlI1NwuPUYNvn/view?usp=share_link)
 
 <h2> 🤳 Connect with me:</h2>
