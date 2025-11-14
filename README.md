@@ -11,7 +11,7 @@
   - [Snort Tutorial](https://youtu.be/mir8pcOSyMo)
 - <b> Project in Python </b>
   - [Analysis of Machine Learning Techniques for Credit Card Fraud Detection](https://github.com/UkaDash/analysis-of-ML-techniques-for-credit-card-fraud-detection/blob/main/ZZZfinal%20-%20credit%20card%20fraud.ipynb)
-  - [Paper](https://drive.google.com/file/d/1kqqeSbA1krXNFOkrBdSHvRHUPcN7hgII/view?usp=share_link)
+  - [Paper](https://drive.google.com/file/d/1ATaijciH9rjzJ59iXKLpQBBie1SmUX52/view?usp=share_link)
   - [Intrusion Detection System](https://github.com/UkaDash/Intrusion-Detection-System/blob/main/Midterm_Urangoo_CYB595%20(1).ipynb)
   - [Using Functions to Implement a Caesar Cipher](https://github.com/UkaDash/Using-Functions-to-Implement-a-Caesar-Cipher/blob/main/Using%20Functions%20to%20Implement%20a%20Caesar%20Cipher.ipynb)
 - <b>AI/Machine Learning/Data Analysis Tutorial<b>
